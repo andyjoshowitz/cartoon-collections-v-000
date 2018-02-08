@@ -18,8 +18,8 @@ def long_planeteer_calls(short_words)
 end
 
 def find_the_cheese(snacks)
+  i=0
   cheese_types = ["cheddar", "gouda", "camembert"]
-  snacks.select do |snack|
-    snack.include?(cheese_types)
+  while i < snacks.length
   end
 end
