@@ -20,5 +20,5 @@ end
 def find_the_cheese(snacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
   snacks.each do |snack|
-    return  
+    return cheese_types[i] if  
 end
